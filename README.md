@@ -1,8 +1,6 @@
 # Nimble App
 
-git commit -m "first commit"
-
-npm or yarn for package management
+This is a small web application built with Next.js, TypeScript, Recoil (for state management), and React Query (for data fetching). It displays a list of products, supports filtering and pagination, and includes a product detail page. It also allows you to upload a custom JSON file to change the product data.
 
 # Installation:
 
