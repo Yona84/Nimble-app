@@ -1,5 +1,6 @@
 # Dependencies
 node_modules/
+.history
 
 # Next.js build output
 .next/
