@@ -6,9 +6,10 @@ This is a small web application built with Next.js, TypeScript, Recoil (for stat
 
 Clone the Repository:
 
-git clone https://github.com/your-username/Nimble-app.git
+git clone https://github.com/Yona84/Nimble-app.git
 
-cd nimble-app
+cd Nimble-app
+
 Install Dependencies:
 
 # using npm
